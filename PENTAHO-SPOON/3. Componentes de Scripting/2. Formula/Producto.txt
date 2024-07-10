@@ -1,0 +1,38 @@
+productoid;producto;cantidad;preciounitario;descuentopct;Monto Bruto;Descuento;Monto Total
+1;Papa;4;4,0;0,1;16.0;1.6;14.4
+2;Palomitas;2;3,0;0,1;6.0;0.6;5.4
+3;Frituras de maíz;1;3,0;0,1;3.0;0.3;2.7
+4;Cacahuates;2;3,0;0,1;6.0;0.6;5.4
+5;Botanas saladas;2;3,0;0,1;6.0;0.6;5.4
+6;Barras alimenticias;5;4,0;0,1;20.0;2.0;18.0
+7;Nueces y semillas;5;4,0;0,1;20.0;2.0;18.0
+8;Caramelos;6;2,0;0,1;12.0;1.2;10.8
+9;Dulces enchilados;3;2,0;0,1;6.0;0.6;5.4
+10;Chocolate de mesa;2;2,0;0,1;4.0;0.4;3.6
+11;Chocolate en polvo;1;2,0;0,1;2.0;0.2;1.8
+12;Chocolates;4;4,0;0,1;16.0;1.6;14.4
+13;Gomas de mascar;2;3,0;0,1;6.0;0.6;5.4
+14;Mazapán;6;2,0;0,1;12.0;1.2;10.8
+15;Malvaviscos;5;3,0;0,1;15.0;1.5;13.5
+16;Pulpa de tamarindo;4;4,0;0,1;16.0;1.6;14.4
+17;Pastillas de dulce;6;4,0;0,1;24.0;2.4;21.6
+18;Paletas de dulce;1;4,0;0,1;4.0;0.4;3.6
+19;Tortillas de harina/maíz;1;2,0;0,1;2.0;0.2;1.8
+20;Galletas dulces;3;3,0;0,1;9.0;0.9;8.1
+21;Galletas saladas;1;3,0;0,1;3.0;0.3;2.7
+22;Pastelillos;5;4,0;0,1;20.0;2.0;18.0
+23;Pan de caja;3;3,0;0,1;9.0;0.9;8.1
+24;Pan dulce;3;3,0;0,1;9.0;0.9;8.1
+25;Pan molido;5;4,0;0,1;20.0;2.0;18.0
+26;Pan tostado;4;2,0;0,1;8.0;0.8;7.2
+27;Aguacates;4;3,0;0,1;12.0;1.2;10.8
+28;Ajos;2;4,0;0,1;8.0;0.8;7.2
+29;Cebollas;1;3,0;0,1;3.0;0.3;2.7
+30;Chiles;3;3,0;0,1;9.0;0.9;8.1
+31;Cilantro/Perejil;4;2,0;0,1;8.0;0.8;7.2
+32;Jitomate;4;4,0;0,1;16.0;1.6;14.4
+33;Papas;4;4,0;0,1;16.0;1.6;14.4
+34;Limones;2;2,0;0,1;4.0;0.4;3.6
+35;Manzanas;1;2,0;0,1;2.0;0.2;1.8
+36;Naranjas;5;3,0;0,1;15.0;1.5;13.5
+37;Plátanos;2;2,0;0,1;4.0;0.4;3.6

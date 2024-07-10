@@ -1,0 +1,11 @@
+ID_Colores|Colores
+1|Amarillo
+1|Azul
+2|Negro
+2|Verde
+3|Blanco
+3|Celeste
+4|Naranja
+4|Gris
+5|Púrpura
+5|Rojo

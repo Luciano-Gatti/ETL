@@ -1,0 +1,6 @@
+nombreTabla
+empleado
+client
+persona
+Detalle
+Territorio

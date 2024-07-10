@@ -1,0 +1,5 @@
+Hola estudiante
+
+si tienes problemas al momento de Restaurar la base de datos "RecursosHumanos.bak" tienes el script "SQL SERVER RecursosHumanos.sql" para poder ejecutarlo de manera manuel y continuar con el desarrollo del curso.
+
+Saludos cordiales.

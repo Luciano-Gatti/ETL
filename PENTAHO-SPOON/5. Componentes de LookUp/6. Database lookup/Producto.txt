@@ -1,0 +1,9 @@
+category_id|category_name|product_id|product_name|unit_price|units_in_stock
+1|Beverages|1|Chai|18,0|39
+2|Condiments|3|Aniseed Syrup|10,0|13
+3|Confections|16|Pavlova|17,45|29
+4|Dairy Products|11|Queso Cabrales|21,0|22
+5|Grains/Cereals|22|Gustaf's Knäckebröd|21,0|104
+6|Meat/Poultry|9|Mishi Kobe Niku|97,0|29
+7|Produce|7|Uncle Bob's Organic Dried Pears|30,0|15
+8|Seafood|10|Ikura|31,0|31

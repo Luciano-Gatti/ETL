@@ -1,0 +1,7 @@
+nombreTabla|nombreColumna
+empleado|ID
+empleado|Nombre
+empleado|Apellido
+empleado|Salario
+empleado|FechaContratacion
+empleado|Direccion

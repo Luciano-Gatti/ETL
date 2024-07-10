@@ -1,0 +1,2 @@
+Query
+SELECT Customer_id, Company_Name, Contact_Name, Country FROM Customers where country not in ('Germany','UK');

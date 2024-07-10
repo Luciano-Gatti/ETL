@@ -1,0 +1,7 @@
+min_salario|max_salario|id|nombre|apellido|salario
+4000|10000|103|Alexander|Hunold|9000
+4000|10000|104|Bruce|Ernst|6000
+4000|10000|105|David|Austin|4800
+4000|10000|106|Valli|Pataballa|4800
+4000|10000|107|Diana|Lorentz|4200
+4000|10000|109|Daniel|Faviet|9000

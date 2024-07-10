@@ -1,0 +1,2 @@
+min_salario|max_salario
+4000|10000
